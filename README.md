@@ -14,9 +14,10 @@ to jest tekst
 2. po drugie
 ' fragment zawarty formatuje czciąką'
 ''' jak formatoać c#
+'''
 int x=1
 int y =x+2
-cpnsole.writeline(x)
+console.writeline(x)
 '''
 
 kliknij. tutaj//(e.wsei.edu.pl)
